@@ -13,4 +13,5 @@ Built on top of expressJs, passportJs
 
 
 
-Want to update npm packages & add another feature to this 
+Want to update npm packages & add another feature to this
+and update this app as a whole.
